@@ -1,3 +1,7 @@
 import nltk
-nltk.download('punkt')
-nltk.download('treebank')
+nltk.download('all-corpora')
+nltk.download('all-nltk')
+nltk.download('book')
+nltk.download('popular')
+nltk.download('third-party')
+nltk.download('tests')
